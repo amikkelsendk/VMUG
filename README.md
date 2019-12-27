@@ -1,6 +1,7 @@
-# VMUG_2018
-These are my 2018 VMUG presentations
+# VMUG
+These are my VMUG presentations
 
+## 2018
 "Auto deploy for he average Joe"
 
 Is my June VMUGDK summer event presentation.
